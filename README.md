@@ -1,5 +1,12 @@
 # Web Vuln Scanner
 
+```text
+╔══════════════════════════════╗
+║        VULNSCAN              ║
+║  authorized web assessment   ║
+╚══════════════════════════════╝
+```
+
 Lightweight web vulnerability scanner in Python — scans for SQLi, XSS, path traversal, sensitive files, and more. CLI-driven, modular scanner architecture.
 
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
@@ -74,4 +81,3 @@ web-vuln-scanner report --output report.json
 ## License
 
 MIT
-
