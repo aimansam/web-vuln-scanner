@@ -1,10 +1,12 @@
 # Web Vuln Scanner
 
 ```text
-╔══════════════════════════════╗
-║        VULNSCAN              ║
-║  authorized web assessment   ║
-╚══════════════════════════════╝
+      /\\
+     /  \\
+    / /\\ \\
+   /_/  \\_\\   VULNSCAN
+   \\  /\\  /   authorized web assessment
+    \\//\\//
 ```
 
 Lightweight web vulnerability scanner in Python — scans for SQLi, XSS, path traversal, sensitive files, and more. CLI-driven, modular scanner architecture.
