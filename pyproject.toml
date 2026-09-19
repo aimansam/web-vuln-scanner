@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "web-vuln-scanner"
+version = "1.0.0"
+description = "Authorized, lightweight web vulnerability scanner"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+dependencies = ["click", "requests", "beautifulsoup4"]
+
+[project.scripts]
+vulnscan = "vulnscan.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["vulnscan*"]
