@@ -1,11 +1,11 @@
 # Web Vuln Scanner
 
 ```text
-##      ## ##      ## ##         ##      ##   ########   ########   ######   ##      ##
-##      ## ##      ## ##         ####    ## ##         ##         ##      ## ####    ##
-##      ## ##      ## ##         ##  ##  ##   ######   ##         ##      ## ##  ##  ##
-  ##  ##   ##      ## ##         ##    ####         ## ##         ########## ##    ####
-    ##       ######   ########## ##      ## ########     ######## ##      ## ##      ##
+__   ___   _ _    _  _ ___  ___   _   _  _ 
+\ \ / / | | | |  | \| / __|/ __| /_\ | \| |
+ \ V /| |_| | |__| .` \__ \ (__ / _ \| .` |
+  \_/  \___/|____|_|\_|___/\___/_/ \_\_|\_|
+                                           
 ```
 
 Lightweight web vulnerability scanner in Python — scans for SQLi, XSS, path traversal, sensitive files, and more. CLI-driven, modular scanner architecture.
